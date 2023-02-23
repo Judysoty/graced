@@ -1,1 +1,1 @@
-# graced
+Simple shell
